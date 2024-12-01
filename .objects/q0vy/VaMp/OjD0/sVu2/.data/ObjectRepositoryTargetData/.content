@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="f87z99blxUaMbQRvRGT9lg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="bmsmena.com" DesignTimeRectangle="981, 288, 97, 56" DesignTimeScaleFactor="1.350000023841858" ElementType="InputBox" FullSelectorArgument="&lt;webctrl tag='INPUT' type='text' placeholder='Search...' /&gt;" FuzzyAccuracy="0.97" Guid="e138d173-ab61-4a9d-9e74-2a39f74248e7" ScopeSelectorArgument="&lt;html app='msedge.exe' title='BMS Mena' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="42b1a7d629da477852e9d9abbb33ac57.png" xmlns="">0defNeia_gUqsU6k2wxMaUw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

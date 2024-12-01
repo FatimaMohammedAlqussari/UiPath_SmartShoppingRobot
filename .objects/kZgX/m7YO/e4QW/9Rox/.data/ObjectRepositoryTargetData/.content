@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="G_vO-cNbCUeuKkbpreWyBQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="jormall.net/search" CVScreenId="3ef6cbe5-3a07-4a5f-9d3f-fed021829474" DesignTimeRectangle="1785, 771, 25, 24" DesignTimeScaleFactor="1.350000023841858" ElementType="Button" FuzzyAccuracy="0.95" FuzzySelectorArgument="&lt;webctrl aria-label='Display products as list' tag='BUTTON' type='button' class='collection__layout-button touch-area' aaname='            ' /&gt;" Guid="5abac6d5-ef52-4ddb-8754-4b326a470df5" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Samsung tv QLED 65 inch - JorMall' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="29254852b96429624823c205b938a858.png" xmlns="">0ajWUkdE5ikKF_Apx8Y-wYw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

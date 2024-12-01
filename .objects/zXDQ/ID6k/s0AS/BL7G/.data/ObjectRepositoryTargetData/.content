@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="XZQek1166EOVEWPMNfteXw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="leaders.jo/en" CVScreenId="00237c05-de9e-4429-b2e2-e42f3629263e" DesignTimeRectangle="614, 253, 699, 81" DesignTimeScaleFactor="1.350000023841858" ElementType="InputBox" FuzzyAccuracy="0.92" FuzzySelectorArgument="&lt;webctrl id='dgwt-wcas-search-input-1' tag='INPUT' type='search' class='dgwt-wcas-search-input' placeholder='Find something you’ll love!' /&gt;" Guid="79aa1d0b-9430-4057-a9a3-2f9dae1e455b" ScopeSelectorArgument="&lt;html app='msedge.exe' title='You searched for Samsung tv QLED 65 inch - ليدرز سنتر' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="eef530e97758815f3045b2c75210479e.png" xmlns="">03FpULnu8uU28e3owY3xsSg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

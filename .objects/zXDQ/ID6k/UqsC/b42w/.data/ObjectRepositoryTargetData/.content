@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="bDeaiZDpUU6jHfeJuW4X1Q" Reference="xkhtSkhXv0yZqgxd1juAjg/b42w_3hHNkGzFPDJ14_FZw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://leaders.jo/en/?s=Samsung+TV+QLED&amp;post_type=product&amp;dgwt_wcas=1&amp;lang=en&amp;s=Samsung%20TV%20QLED&amp;post_type=product&amp;dgwt_wcas=1&amp;lang=en&amp;orderby=price&amp;s=Samsung%20TV%20QLED&amp;post_type=product&amp;dgwt_wcas=1&amp;lang=en" ContentHash="ncd8Cc9nLkCKyuoArtJ0Dw" DesignTimeRectangle="190, 404, 1146, 1558" DesignTimeScaleFactor="1.350000023841858" ElementType="List" FullSelectorArgument="&lt;webctrl parentid='main' tag='UL' /&gt;" Guid="5d3b2a0b-ec67-46c0-baa4-9acd1a8dbae8" Reference="xkhtSkhXv0yZqgxd1juAjg/b42w_3hHNkGzFPDJ14_FZw" ScopeSelectorArgument="&lt;html app='msedge.exe' title='You searched for Samsung TV QLED - ليدرز سنتر' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f188eb87c9aea302793edfcf012f50ed.png" xmlns="">08qbXKcDMXEaeFiJ2oJv7eg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">ExtractData</x:String>
+    <p:InArgument x:TypeArguments="x:String" x:Key="ExtractDataSettings" xml:space="preserve">&lt;Table xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xsd='http://www.w3.org/2001/XMLSchema' Type='Structured' AddCvHeader='true' IsScrollEnabled='false'&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column0' Name='Title' Sort='Asc'&gt;
+		&lt;IsValidName&gt;true&lt;/IsValidName&gt;
+		&lt;ValidationErrorMessage /&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;CanExtractSimilar&gt;true&lt;/CanExtractSimilar&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column2' Name='Product Url' Sort='Asc'&gt;
+		&lt;IsValidName&gt;true&lt;/IsValidName&gt;
+		&lt;ValidationErrorMessage /&gt;
+		&lt;IsExtra&gt;true&lt;/IsExtra&gt;
+		&lt;CanExtractSimilar&gt;true&lt;/CanExtractSimilar&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column1' Name='Product Price' Sort='Asc'&gt;
+		&lt;IsValidName&gt;true&lt;/IsValidName&gt;
+		&lt;ValidationErrorMessage /&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;
+		&lt;Format xsi:type='NumberColumnFormat' DecimalSeparator='.' ThousandsSeparator=',' /&gt;
+	&lt;/Column&gt;
+&lt;/Table&gt;</p:InArgument>
+    <x:Null x:Key="NextLinkTarget" />
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Fs5FZvzl8k2G6eMZeuiHPQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://leaders.jo/en/?s=Samsung+TV+QLED&amp;post_type=product&amp;dgwt_wcas=1&amp;lang=en" DesignTimeRectangle="190, 456, 1146, 1515" DesignTimeScaleFactor="1.350000023841858" ElementType="List" FullSelectorArgument="&lt;webctrl parentid='main' tag='UL' /&gt;" Guid="e44b9374-216e-40cc-86d5-7635bb796a4b" ScopeSelectorArgument="&lt;html app='msedge.exe' title='You searched for Samsung TV QLED - ليدرز سنتر' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="83a7437bb62cfe3eb140f5d2ac5d0c6a.png" xmlns="">0aQl7trwzVE2wJBnVqCUYSw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">ForEachUiElement</x:String>
+    <p:InArgument x:TypeArguments="x:String" x:Key="ExtractDataSettings" xml:space="preserve">&lt;Table xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xsd='http://www.w3.org/2001/XMLSchema' Type='Structured' AddCvHeader='true' IsScrollEnabled='false'&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column0' Name='CurrentElement'&gt;
+		&lt;IsValidName&gt;true&lt;/IsValidName&gt;
+		&lt;ValidationErrorMessage /&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;CanExtractSimilar&gt;true&lt;/CanExtractSimilar&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+&lt;/Table&gt;</p:InArgument>
+    <x:Null x:Key="NextLinkTarget" />
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

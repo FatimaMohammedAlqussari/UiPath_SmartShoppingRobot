@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge You searched for Samsung tv QLED 65 inch(1)",
+  "Type": "Screen",
+  "Id": "UqsCpt_IVEiWNQbMJOh0Qg",
+  "Reference": "xkhtSkhXv0yZqgxd1juAjg/UqsCpt_IVEiWNQbMJOh0Qg",
+  "ParentRef": "xkhtSkhXv0yZqgxd1juAjg/ID6k9IcQlUa3UvCufeIsvw",
+  "Created": "2024-11-09T13:27:31.7532713Z",
+  "Updated": "2024-11-09T13:27:31.7532713Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

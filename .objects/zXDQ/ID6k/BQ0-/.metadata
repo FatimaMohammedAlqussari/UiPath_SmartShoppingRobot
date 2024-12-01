@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Samsung TV QLED - JorMall",
+  "Type": "Screen",
+  "Id": "BQ0-kMFjKki-lV-Nf5IjXg",
+  "Reference": "xkhtSkhXv0yZqgxd1juAjg/BQ0-kMFjKki-lV-Nf5IjXg",
+  "ParentRef": "xkhtSkhXv0yZqgxd1juAjg/ID6k9IcQlUa3UvCufeIsvw",
+  "Created": "2024-11-12T05:17:55.6432282Z",
+  "Updated": "2024-11-12T05:17:55.6432282Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

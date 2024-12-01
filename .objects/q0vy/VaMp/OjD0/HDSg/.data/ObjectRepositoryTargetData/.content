@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="PBlkHWxRIEakilDoYdOlVw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="bmsmena.com" CVScreenId="1152cbe1-bdf8-47ba-8fac-4f377893075d" DesignTimeRectangle="1258, 292, 107, 48" DesignTimeScaleFactor="1.350000023841858" ElementType="Button" FuzzyAccuracy="0.88" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='submit' class='search_header__submit js_btn_search' aaname='                             Search                                                        ' check:text='Search' /&gt;" Guid="52317eef-c13a-4364-9025-2174df94e429" ScopeSelectorArgument="&lt;html app='msedge.exe' title='BMS Mena' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="71dbfe0485ae112ab85f632e0aabd043.png" xmlns="">0i6hUqfPDY0WKwM0nHEiKwQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

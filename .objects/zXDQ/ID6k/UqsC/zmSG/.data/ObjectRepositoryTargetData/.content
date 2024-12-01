@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Xgt1Ex8Q40KyFiQLKuO_SQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="leaders.jo/en" CVScreenId="dbcb177e-846e-4966-b6f3-2941350cebca" DesignTimeRectangle="827, 662, 225, 34" DesignTimeScaleFactor="1.350000023841858" ElementType="DropDown" FuzzyAccuracy="0.99" FuzzySelectorArgument="&lt;webctrl tag='SELECT' type='' class='orderby' aaname='' /&gt;" Guid="0203e23f-afa2-4f90-8cef-47ad6f5d18f5" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='You searched for iPhone 14 plus - ليدرز سنتر' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="2887452495406967e5bead490aec8003.png" xmlns="">0weMK-ynmgU-UGTrJp0wvow</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

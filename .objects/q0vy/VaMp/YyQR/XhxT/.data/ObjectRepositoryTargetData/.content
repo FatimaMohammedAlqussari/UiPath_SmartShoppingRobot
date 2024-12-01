@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="w2VpZyq12kWfilbXxhCFXg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="bmsmena.com/search" DesignTimeRectangle="237, 642, 31, 27" DesignTimeScaleFactor="1.350000023841858" FuzzyAccuracy="0.9" FuzzySelectorArgument="&lt;webctrl aaname='              &amp;#x9;                                                                                          ' parentid='MainContent' tag='A' type='' class='list-button js_cat_view ' /&gt;" Guid="7d1e46eb-b243-456c-87cc-99dbe7336408" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Search: 20 results found for &amp;quot;Samsung tv QLED 65 inch&amp;quot; – BMS Mena' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="43207b6648f6e900052df840f6e73e15.png" xmlns="">01_GR-R_us0WnwpoEsYQ3BA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

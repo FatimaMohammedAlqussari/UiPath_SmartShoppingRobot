@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Search 20 results found for Samsung tv Q",
+  "Type": "Screen",
+  "Id": "YyQRblpmvUe3rzu9jOf_ZA",
+  "Reference": "xkhtSkhXv0yZqgxd1juAjg/YyQRblpmvUe3rzu9jOf_ZA",
+  "ParentRef": "xkhtSkhXv0yZqgxd1juAjg/VaMp_VFQL0SB_MM0nbGAaw",
+  "Created": "2024-11-09T20:05:04.7177387Z",
+  "Updated": "2024-11-09T20:05:04.7177387Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

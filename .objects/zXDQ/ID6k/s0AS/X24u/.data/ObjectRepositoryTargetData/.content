@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="weu09fRsl0m5IlsyXwedyA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="leaders.jo/en" CVScreenId="2bbb96a3-bbba-43d6-8634-23bcf5decf6c" DesignTimeRectangle="1170, 261, 135, 65" DesignTimeScaleFactor="1.350000023841858" ElementType="Button" FuzzyAccuracy="0.94" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='submit' class='dgwt-wcas-search-submit' aaname='Search' check:innerText='SEARCH' /&gt;" Guid="0ce84961-7bdb-4611-ae95-4b4ea19d95f1" ScopeSelectorArgument="&lt;html app='msedge.exe' title='You searched for Samsung tv QLED 65 inch - ليدرز سنتر' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="e68134c0dcd4dc9fef7e1c9fe0caef40.png" xmlns="">0b3YjZKeKSEq4r2EIkmJ_YA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
